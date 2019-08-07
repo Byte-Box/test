@@ -1,2 +1,2 @@
 # test
-test repo
+test repo for testing and demonstartions purpose
